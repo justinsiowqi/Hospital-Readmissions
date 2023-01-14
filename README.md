@@ -4,7 +4,7 @@
 
 * This project is Codecademy's "Machine Learning Fundamentals Skill Path" Final Portfolio.
 * Goal: Create a model to predict whether a patient will get readmitted within 30 days.
-* Data: The dataset contains information from 130 US hospitals and integrated delivery networks across 10 years from 1999 to 2008.
+* Data: The [dataset](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008#) contains information from 130 US hospitals and integrated delivery networks across 10 years from 1999 to 2008.
 * Analysis: Logistic Regression, K-Nearest Neighbours, Naive Bayes, Decision Tree and Random Forest were used to predict early readmissions. The models were then evaluated using accuracy, precision, recall and F1 scores.
 
 ## Getting Started
